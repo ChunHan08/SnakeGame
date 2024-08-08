@@ -21,7 +21,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: white;
+  background-image: linear-gradient(to left bottom, #285064, #45477c);
 }
 .game-details {
   color: white;
